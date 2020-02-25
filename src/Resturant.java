@@ -16,7 +16,7 @@ public class Resturant {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Customer c1 = new Customer("michael","089",1,true);
+		Customer c1 = new Customer("johnny","2322332089",11,false);
 		Customer c2 = new Customer();
 		Customer c3 = new Customer();
 		Table t1 = new Table(1);
